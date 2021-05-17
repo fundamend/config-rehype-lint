@@ -1,6 +1,6 @@
 {
 	"name": "@fundamend/config-rehype-lint",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"dependencies": {
 		"rehype-parse": "^7.0.1"
 	},
